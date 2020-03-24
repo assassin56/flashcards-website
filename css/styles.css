@@ -1,0 +1,9 @@
+#javainfo {
+  display: none;
+}
+
+#toggleinfo {
+  cursor: pointer;
+  color: red;
+  text-decoration: underline;
+}
